@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace MagicNumber
+namespace MagicNumber.Pages
 {
     public class IndexModel : PageModel
     {

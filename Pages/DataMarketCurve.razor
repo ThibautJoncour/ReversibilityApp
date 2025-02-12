@@ -1,7 +1,9 @@
-﻿@page "/DataMarketRates"
+﻿@page "/DataMarketCurve"
 @using Newtonsoft.Json
 @inject DatabaseService DatabaseService
 @inject IJSRuntime JSRuntime
+@attribute [Microsoft.AspNetCore.Authorization.Authorize]
+
 
 <style>
     .modal {
@@ -73,17 +75,6 @@
             <input id="SearchStartDate" type="date" class="form-control" @bind="SearchStartDate" />
         </div>
 
-        <div class="col-md-3">
-            <label for="SearchEndDate" class="form-label">End Date:</label>
-            <input id="SearchEndDate" type="date" class="form-control" @bind="SearchEndDate" />
-        </div>
-
-        <div class="col-md-3">
-            <label for="SelectedTable" class="form-label">Product Type:</label>
-            <select id="SelectedTable" @bind="SelectedTable" class="form-select">
-                <option value="dataMarketCcy">Forex</option>
-            </select>
-        </div>
     </div>
 
     <div class="row mb-4">
@@ -98,8 +89,11 @@
                 <thead class="table-dark">
                     <tr>
                         <th>Date</th>
-                        <th>Price</th>
-                        <th>Currency</th>
+                        <th>Curve</th>
+                        <th>Rate</th>
+                        <th>Point</th>
+                        <th>Maturity</th>
+
                     </tr>
                 </thead>
                 <tbody>
@@ -107,8 +101,11 @@
                     {
                                 <tr>
                                     <td>@row["Date"]</td>
-                                    <td>@row["Price"]</td>
-                                    <td>@row["Code"]</td>
+                                     <td>@row["Curve"]</td>
+                                     <td>@row["Code"]</td>
+                                    <td>@row["Point"]</td>
+                                    <td>@row["Maturity"]</td>
+
                                 </tr>
                     }
                 </tbody>
@@ -151,39 +148,46 @@
 </div>
 
 @code {
-    private DateTime SearchStartDate = DateTime.Today.AddYears(-4);
-    private DateTime SearchEndDate = DateTime.Today.AddYears(-2);
-    private string SelectedTable = "dataMarketRates";
+
+
+    private static DateTime SearchStartDate = new DateTime(2020, 01, 02);
+    private string stringDate = SearchStartDate.ToString("yyyy-MM-dd");
+    private string SelectedTable = "curve";
     private List<Dictionary<string, object>> request_all = new();
     private List<string> SelectedCurrencies = new();
     private bool IsRateModalOpen = false;
     private string SearchTermRate = "";
+    private List<string> RateTypes = new() {
 
-    private List<string> RateTypes = new List<string>
-    {
-"iESTER",
-"TEC 10",
-"Lib12M GBP J",
-"Lib12M USD",
-"Euribor12M",
-"Euribor6M",
-"iSoniaGBP",
-"Lib2M GBP",
-"Lib3M GBP",
-"Lib6M GBP",
-"iLIB3A",
-"iSwapSONIA4M",
-"iSwapSONIA5M",
-"iSTOXX",
-"iIMEUREX",
-"Euribor 1W",
-"Euribor2W",
-"Euribor2M",
-"Euribor3M",
-"iFRA6MVS3M",
+"EONIA",
+"LIBOR O/N USD",
+"txEcatEST-EUR3M",
+"txEONIA",
+"txEONIA-NA",
+"txEur1M",
+"txEur1M/Ester",
+"txEur1M-NA",
+"txEur3M",
+"txEur3M/EsterFR",
+"txEur3M-FRA",
+"txEur3MNA-FRA",
+"txEurib6M",
+"txMarche-DKK",
+"txMarcheESTER",
+"txMarche-GBP",
+"txMarche-HUF",
+"txMarche-NOK",
+"txMarche-PLN",
+"txMarche-SEK",
+"txMarche-USD",
+"txRefSurfi",
+"txSONIA-GBP",
 
-
+        
+    
+    
     };
+
     private List<string> FilteredRates => RateTypes
         .Where(rate => rate.Contains(SearchTermRate, StringComparison.OrdinalIgnoreCase))
         .ToList();
@@ -211,33 +215,37 @@
             return;
         }
 
-        string query_all = $"SELECT Date, Price, Code FROM dataMarketRate WHERE [Code] IN ({string.Join(",", SelectedCurrencies.Select((c, i) => $"@Code{i}"))}) AND Date BETWEEN @StartDate AND @EndDate";
+        string query_all = $"SELECT DISTINCT Date, Curve, Code, Point, Price, Maturity FROM curve WHERE [Curve] IN ({string.Join(",", SelectedCurrencies.Select((c, i) => $"@Curve{i}"))}) AND [Date] = @StartDate ORDER BY Point";
 
         var parameters = new Dictionary<string, object>
         {
-            { "@StartDate", SearchStartDate },
-            { "@EndDate", SearchEndDate }
+            { "@StartDate", stringDate },
         };
 
         for (int i = 0; i < SelectedCurrencies.Count; i++)
         {
-            parameters[$"@Code{i}"] = SelectedCurrencies[i];
+            parameters[$"@Curve{i}"] = SelectedCurrencies[i];
         }
 
         request_all = DatabaseService.GetData(query_all, parameters);
         if (request_all.Any())
         {
             // Étape 1: Récupérer **toutes** les dates uniques et les trier
-            var allDates = request_all.Select(r => r["Date"].ToString()).Distinct().OrderBy(d => d).ToList();
+            var allDates = request_all
+    .Select(r => Convert.ToDecimal(r["Point"]))  // Convertir en nombre
+    .Distinct()
+    .OrderBy(d => d)  // Trier numériquement
+    .Select(d => d.ToString())  // Convertir en string si nécessaire
+    .ToList();
 
             // Étape 2: Grouper les données par devise
             var groupedData = request_all
-                .GroupBy(r => r["Code"].ToString()) // Groupement par devise
+                .GroupBy(r => r["Curve"].ToString()) // Groupement par devise
                 .ToDictionary(
                     g => g.Key, // Clé = devise
                     g => g.Select(d => new
                     {
-                        Date = d["Date"].ToString(),
+                        Date = d["Point"].ToString(),
                         Price = Convert.ToDecimal(d["Price"])
                     }).ToList()
                 );

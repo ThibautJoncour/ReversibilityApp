@@ -1,8 +1,7 @@
-﻿@page "/singletrade"
+﻿@page "/securitization"
 @using Newtonsoft.Json
 @inject DatabaseService DatabaseService
 @inject IJSRuntime JSRuntime
-@inject CustomAuthenticationStateProvider AuthProvider
 
 <style>
     body {
@@ -101,22 +100,25 @@
     }
 </style>
 
+<h3 class="text-center my-4 text-primary">Securities</h3>
+
+
 <div class="container">
     <div class="search-container">
-        <input @bind="SearchTerm" placeholder="Enter Arpson réf..." />
+        <input @bind="SearchTerm" placeholder="Enter ISIN code..." />
         <button @onclick="ApplyFilter">Search</button>
     </div>
 
     <div class="card-container">
         <div class="card">
-            <h3>Trades Characteristics</h3>
+            <h3>Bonds Characteristics</h3>
             @if (FilteredData.Any())
             {
                     <table>
                         <thead>
                             <tr>
                                 <th>Libellé</th>
-                                <th>Valeur</th>
+                                <th>Values</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -137,21 +139,12 @@
         </div>
 
         <div class="card">
-            <h3>Audit</h3>
+            <h3>Flux</h3>
             <div class="table-container">
-                <table id="dataTable" class="table table-striped">
+                <table id="dataTable1" class="table table-striped">
                     <!-- Contenu généré dynamiquement -->
                 </table>
             </div>
-        </div>
-    </div>
-
-    <div class="card">
-        <h3>Flux</h3>
-        <div class="table-container">
-            <table id="dataTable1" class="table table-striped">
-                <!-- Contenu généré dynamiquement -->
-            </table>
         </div>
     </div>
 </div>
@@ -160,58 +153,30 @@
     private string SearchTerm = string.Empty;
     private string jsonaudit, jsonEch = string.Empty;
     private List<Dictionary<string, object>> FilteredData = new();
-    private List<Dictionary<string, object>> FilteredAudit = new();
     private List<Dictionary<string, object>> FilteredEche = new();
 
     private async Task ApplyFilter()
     {
-        var authState = await AuthProvider.GetAuthenticationStateAsync();
-        var user = authState.User;
-
-        if (user.Identity == null || !user.Identity.IsAuthenticated)
-        {
-            Console.WriteLine("⚠️ Aucun utilisateur connecté.");
-            return;
-        }
-
-        Console.WriteLine($"✅ Utilisateur connecté : {user.Identity.Name}");
-
-        // 🔹 Afficher tous les claims pour voir si "Entity" est bien présent
-        Console.WriteLine("📌 Claims disponibles :");
-        foreach (var claim in user.Claims)
-        {
-            Console.WriteLine($"   - {claim.Type}: {claim.Value}");
-        }
-
-        // 🔹 Vérifier les entités autorisées
-        var userEntities = user.Claims
-            .Where(c => c.Type == "Entity")
-            .Select(c => $"'{c.Value}'") // Ajoute des quotes pour SQL
-            .ToList();
-
-        if (!userEntities.Any())
-        {
-            Console.WriteLine("⚠️ Aucune entité trouvée pour cet utilisateur.");
-            return;
-        }
-
-        Console.WriteLine($"✅ Entités autorisées : {string.Join(", ", userEntities)}");
-
-        string query = $"SELECT * FROM trades WHERE [ARPSONRef] = @Input AND [Entity] IN ({string.Join(",", userEntities)})";
+        string query = "SELECT * FROM securities WHERE [ISIN] = @Input";
+        string query2 = "SELECT * FROM securitiesSchedule WHERE [ISIN] = @Input";
         var parameters = new Dictionary<string, object> { { "@Input", SearchTerm } };
 
-        Console.WriteLine($"🟢 Exécution de la requête SQL : {query}");
-
         FilteredData = DatabaseService.GetData(query, parameters);
+        FilteredEche = DatabaseService.GetData(query2, parameters);
 
-        if (FilteredData.Any())
+        jsonEch = FilteredData.Any() ? JsonConvert.SerializeObject(FilteredData) : null;
+        jsonaudit = FilteredEche.Any() ? JsonConvert.SerializeObject(FilteredEche) : null;
+
+        await JSRuntime.InvokeVoidAsync("resetDataTable1");
+        await JSRuntime.InvokeVoidAsync("resetDataTable");
+
+        if (!string.IsNullOrEmpty(jsonEch))
         {
-            Console.WriteLine($"✅ {FilteredData.Count} enregistrements trouvés.");
+            await JSRuntime.InvokeVoidAsync("initializeDataTable1", jsonEch);
         }
-        else
+        if (!string.IsNullOrEmpty(jsonaudit))
         {
-            Console.WriteLine("⚠️ Aucune donnée trouvée.");
+            await JSRuntime.InvokeVoidAsync("initializeDataTable", jsonaudit);
         }
     }
-
 }
