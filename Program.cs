@@ -14,7 +14,6 @@ builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthenticationStat
 builder.Services.AddAuthorizationCore();
 builder.Services.AddScoped<CustomAuthenticationStateProvider>();
 
-builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddSingleton<DatabaseService>();
 builder.Services.AddScoped<ProtectedSessionStorage>();
 
