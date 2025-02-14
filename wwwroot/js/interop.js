@@ -289,32 +289,14 @@ function initializeDataRate(json) {
 function GenerateLineRate(data, labels) {
     const ctx = document.getElementById("RateChart").getContext("2d");
 
-    // Détruire l'ancien graphique si existant
+    // Détruire l'ancien graphique s'il existe
     if (chartInstance) {
         chartInstance.destroy();
     }
 
-    // Créer un nouveau graphique
-    chartInstance = new Chart(ctx, {
-        type: 'Line',
-        data: {
-            labels: labels,
-            datasets: [{
-                label: 'Duration',
-                data: data,
-                backgroundColor: 'rgba(75, 192, 192, 0.2)',
-                borderColor: 'rgba(75, 192, 192, 1)',
-                borderWidth: 1
-            }]
-        },
-        options: {
-            responsive: true,
-            scales: {
-                y: {
-                    beginAtZero: true
-                }
-            }
-        }
-    });
-}
-
+    // Palette de couleurs pour chaque courbe
+    const colors = [
+        'rgba(255, 99, 132, 1)',
+        'rgba(54, 162, 235, 1)',
+        'rgba(255, 206, 86, 1)',
+        'rgba(75, 192, 192, 
