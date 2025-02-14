@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace MagicNumber.Pages
 {
-    public class testModel : PageModel
+    public class IndexModel : PageModel
     {
         public void OnGet()
         {
