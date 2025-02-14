@@ -299,4 +299,58 @@ function GenerateLineRate(data, labels) {
         'rgba(255, 99, 132, 1)',
         'rgba(54, 162, 235, 1)',
         'rgba(255, 206, 86, 1)',
-        'rgba(75, 192, 192, 
+        'rgba(75, 192, 192, 1)',
+        'rgba(153, 102, 255, 1)',
+        'rgba(255, 159, 64, 1)',
+        'rgba(50,205,50,1)',
+        'rgba(220,20,60,1)',
+        'rgba(70,130,180,1)'
+    ];
+
+    let datasets = [];
+    let colorIndex = 0;
+    let allValues = [];
+
+    // Construire un dataset par taux d'intérêt
+    for (const rate in data) {
+        const prices = data[rate];
+
+        datasets.push({
+            label: rate, // Nom du taux d'intérêt
+            data: prices,
+            borderColor: colors[colorIndex % colors.length],
+            backgroundColor: 'rgba(0, 0, 0, 0)',
+            borderWidth: 2,
+            tension: 0.1
+        });
+
+        allValues = allValues.concat(prices);
+        colorIndex++;
+    }
+
+    // Calcul du min et max pour ajuster l'échelle Y
+    const minVal = Math.min(...allValues);
+    const maxVal = Math.max(...allValues);
+
+    // Création du graphique multi-courbes
+    chartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: datasets
+        },
+        options: {
+            responsive: true,
+            scales: {
+                y: {
+                    beginAtZero: false,
+                    suggestedMin: minVal * 0.9,  // Ajuste la marge basse
+                    suggestedMax: maxVal * 1.1,  // Ajuste la marge haute
+                    ticks: {
+                        stepSize: (maxVal - minVal) / 5
+                    }
+                }
+            }
+        }
+    });
+}
