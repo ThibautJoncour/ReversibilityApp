@@ -17,6 +17,7 @@ public class CustomAuthenticationStateProvider : AuthenticationStateProvider
         { "JREADY", "ready" },
         { "TGOMEZ", "TGV" },
         { "CHATGPT", "Merci" },
+        { "RFEDERER", "GREAT" },
         { "RafaNadal", "GOAT" }
     };
 
