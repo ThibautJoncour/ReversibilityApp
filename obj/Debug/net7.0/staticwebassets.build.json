@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a7mfspfHz82+XZo/tx9C3sUPMv218KfLyQPCZ3Q9xIA=",
+  "Hash": "3L6RWj3bLZyEKiAAxAkK+bo6UtTZIzSejV7/1yT7j+0=",
   "Source": "MagicNumber",
   "BasePath": "_content/MagicNumber",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MagicNumber\\wwwroot",
       "Source": "MagicNumber",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css",
       "AssetKind": "All",
@@ -31,15 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "7t9tbfaemk",
+      "Integrity": "FYJNevdgdMX4R7rEhQxDvKVdV5SyZSlRT4eVSU+Lgyk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.ai.js",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.ai.js",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "blazor.bootstrap.ai.js",
       "AssetKind": "All",
@@ -50,15 +52,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "m4v3m943t1",
+      "Integrity": "qqVhOIiDDbSiSP44XiXacBrWpys+pgsREG/S9PlabcQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.ai.js"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.ai.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.css",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.css",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "blazor.bootstrap.css",
       "AssetKind": "All",
@@ -69,15 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "63oqyoiiv4",
+      "Integrity": "jqE3jyGxWnCTc0Y7oGfHKZOpZM9udgb38MQGLaxmkNc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.js",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.js",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "blazor.bootstrap.js",
       "AssetKind": "All",
@@ -88,15 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "mgojsf1q78",
+      "Integrity": "ajVMnqBMAkGl+pstlYFA4TwJBU1G7yqG5K5q51SUDJU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.pdf.js",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.pdf.js",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "blazor.bootstrap.pdf.js",
       "AssetKind": "All",
@@ -107,15 +115,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ct0ej5e0q0",
+      "Integrity": "oAIj2P0Z/6hTwjGA3OGvWLdxMP4KwE35+AQzWQTpxAg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.pdf.js"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.pdf.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.sortable-list.js",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.sortable-list.js",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "blazor.bootstrap.sortable-list.js",
       "AssetKind": "All",
@@ -126,15 +136,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ezlxc6gzv3",
+      "Integrity": "du71NM6e2+m9l81ldV+Gbr74ER7Xx1GnJFg+rIY6OQU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.sortable-list.js"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.sortable-list.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.theme-switcher.js",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.theme-switcher.js",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "blazor.bootstrap.theme-switcher.js",
       "AssetKind": "All",
@@ -145,15 +157,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "pisakkcwob",
+      "Integrity": "Hy2y6B5ohWPnmWg4c52+QUuZGTw8r09KtWKcaGiaa/k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.theme-switcher.js"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.theme-switcher.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\icon\\128X128.png",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\icon\\128X128.png",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "icon/128X128.png",
       "AssetKind": "All",
@@ -164,15 +178,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "tngynhsog2",
+      "Integrity": "J1yB7ftYf6PWiU1781eE0JHBGfd1MV/XlLaxpVy09RU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\icon\\128X128.png"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\icon\\128X128.png"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.min.js",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.min.js",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "pdfjs-4.0.379.min.js",
       "AssetKind": "All",
@@ -183,15 +199,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "j8zp7bt7w3",
+      "Integrity": "XX7we2CiSWzj3rsNtKFCod90LBYAJ3bo8rmu4EuN7SQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.min.js"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.min.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.worker.min.js",
+      "Identity": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.worker.min.js",
       "SourceId": "Blazor.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\",
       "BasePath": "_content/Blazor.Bootstrap",
       "RelativePath": "pdfjs-4.0.379.worker.min.js",
       "AssetKind": "All",
@@ -202,1157 +220,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "79hai7knhw",
+      "Integrity": "JbwqIn9Fic7JuWyTXuNnAA1T0dYQ2tkTi9HhrSltUtQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.worker.min.js"
+      "OriginalItemSpec": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.worker.min.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\css\\site.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "css/site.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\favicon.ico",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\js\\site.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "js/site.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\js\\site.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/bootstrap/LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery/dist/jquery.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "Microsoft.AspNetCore.Identity.UI",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\",
-      "BasePath": "Identity",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MagicNumber.styles.css",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MagicNumber.styles.css",
       "SourceId": "MagicNumber",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "MagicNumber.styles.css",
+      "RelativePath": "MagicNumber#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -1361,17 +241,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "pjxslbasgh",
+      "Integrity": "K4ZCmIp4xDTyK9LRmHOrmQQzWUkVhbYckSsIxxqPsz0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MagicNumber.styles.css"
+      "OriginalItemSpec": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MagicNumber.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MagicNumber.bundle.scp.css",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MagicNumber.bundle.scp.css",
       "SourceId": "MagicNumber",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "MagicNumber.bundle.scp.css",
+      "RelativePath": "MagicNumber#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -1380,446 +262,3457 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "4fbit5co75",
+      "Integrity": "UDtfDTxrgs1cX/R9K3YCJMWSfGDHe18HWycMdHoTN24=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MagicNumber.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MagicNumber.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\Pages\\GlobalTrades.razor.js",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalHedging.razor.js",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\",
+      "BasePath": "_content/MagicNumber",
+      "RelativePath": "Pages/GlobalHedging.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bbn55q649f",
+      "Integrity": "RzKhbwCylfxTd0Xyxt9g0Sr03SClGXJDWcfxDiDhvBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Pages\\GlobalHedging.razor.js"
+    },
+    {
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalSchedule.razor.js",
+      "SourceId": "MagicNumber",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\",
+      "BasePath": "_content/MagicNumber",
+      "RelativePath": "Pages/GlobalSchedule.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jh7qhygnoo",
+      "Integrity": "mR4/fTQHvDfmHdSw4IhJYBqVZglnm1TAlDilNoldVMQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Pages\\GlobalSchedule.razor.js"
+    },
+    {
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalTrades.razor.js",
+      "SourceId": "MagicNumber",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\",
       "BasePath": "_content/MagicNumber",
       "RelativePath": "Pages/GlobalTrades.razor.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "las6wfcdj0",
+      "Integrity": "vZDZvFiSonE3DdWhzG4JDNiP7oN3UH2IyCR/4mszts8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Pages\\GlobalTrades.razor.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/bootstrap/bootstrap.min.css",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/bootstrap/bootstrap.min.css.map",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "cmapd0fi15",
+      "Integrity": "BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "0uw8dim9nl",
+      "Integrity": "OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "wk8x8xm0ah",
+      "Integrity": "sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "sjnzgf7e1h",
+      "Integrity": "+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ll5grcv8wv",
+      "Integrity": "p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "h4d0pazwgy",
+      "Integrity": "cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "48tmkg660f",
+      "Integrity": "jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/open-iconic/ICON-LICENSE",
+      "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "4dwjve0o0b",
+      "Integrity": "aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/open-iconic/README.md",
+      "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "5bzwdl5l6x",
+      "Integrity": "waukoLqsiIAw/nXpsKkTHnhImmcPijcBEd2lzqzJNN0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\site.css",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ys9pchf5e7",
+      "Integrity": "HmISR7GMHKKecm3Otv4ehz7pponbngm0Dq15PWn/6ig=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\db.sqlite3",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\db.sqlite3",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "db.sqlite3",
+      "RelativePath": "db#[.{fingerprint}]?.sqlite3",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "0qos5feifk",
+      "Integrity": "2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\db.sqlite3"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\favicon.png",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "favicon.png",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\images\\backtound.mp4",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\backtound.mp4",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "images/backtound.mp4",
+      "RelativePath": "images/backtound#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "dp19ge31xv",
+      "Integrity": "4ehNdpkwqs44H5rff8lS2mCLo6Qsoxo9fw8WYYpxICY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\backtound.mp4"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\images\\logo_black.jpg",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\logo_black.jpg",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "images/logo_black.jpg",
+      "RelativePath": "images/logo_black#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "s9ad6fsyi6",
+      "Integrity": "QBc33MkJYZdCdssv5DaZuck9r0RUBayEBA2wjVY9gII=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo_black.jpg"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\images\\logo_bnp.png",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\logo_bnp.png",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "images/logo_bnp.png",
+      "RelativePath": "images/logo_bnp#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ayfi668lfw",
+      "Integrity": "Qn+JLhn11qgv748JeUhsIppo2Uf5X6DzsJDEVKNhbs8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo_bnp.png"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\images\\videoplayback.mp4",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\videoplayback.mp4",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "images/videoplayback.mp4",
+      "RelativePath": "images/videoplayback#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "kkpwgeh0vk",
+      "Integrity": "dGEVLMZNErErHb/vL5Plnc3CeF387A91hPEBhl9QU0k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\videoplayback.mp4"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\index.html",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "index.html",
+      "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "jw8hrxuq54",
+      "Integrity": "rTn1OtJ/Q57MkEfxkqSpwDHklhYw42tI7TEgNH6dAnw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\js\\interop.js",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\interop.js",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "js/interop.js",
+      "RelativePath": "js/interop#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "3f7ojmndha",
+      "Integrity": "j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\interop.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\js\\localStorage.js",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\localStorage.js",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "js/localStorage.js",
+      "RelativePath": "js/localStorage#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "zpr158qxpx",
+      "Integrity": "aZg+jqwV4TaY0D68ThxoOWeeQQArmqPFj9b9/xy8bWE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\localStorage.js"
     },
     {
-      "Identity": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\js\\react-app.js",
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\react-app.js",
       "SourceId": "MagicNumber",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
       "BasePath": "_content/MagicNumber",
-      "RelativePath": "js/react-app.js",
+      "RelativePath": "js/react-app#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "k2mfzs9av7",
+      "Integrity": "fCAXVWHlT64Cbj4FKrmmGeZaNyO0v4KP7AjNzWUQ70c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\react-app.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.63oqyoiiv4.css",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22639"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jqE3jyGxWnCTc0Y7oGfHKZOpZM9udgb38MQGLaxmkNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Nov 2024 14:43:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "63oqyoiiv4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jqE3jyGxWnCTc0Y7oGfHKZOpZM9udgb38MQGLaxmkNc="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/blazor.bootstrap.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FYJNevdgdMX4R7rEhQxDvKVdV5SyZSlRT4eVSU+Lgyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 02 Nov 2024 09:45:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7t9tbfaemk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FYJNevdgdMX4R7rEhQxDvKVdV5SyZSlRT4eVSU+Lgyk="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/Blazor.Bootstrap.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.ai.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.ai.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qqVhOIiDDbSiSP44XiXacBrWpys+pgsREG/S9PlabcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 07:52:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qqVhOIiDDbSiSP44XiXacBrWpys+pgsREG/S9PlabcQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.ai.m4v3m943t1.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.ai.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qqVhOIiDDbSiSP44XiXacBrWpys+pgsREG/S9PlabcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 07:52:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m4v3m943t1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qqVhOIiDDbSiSP44XiXacBrWpys+pgsREG/S9PlabcQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/blazor.bootstrap.ai.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/Blazor.Bootstrap.bundle.scp.css",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FYJNevdgdMX4R7rEhQxDvKVdV5SyZSlRT4eVSU+Lgyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 02 Nov 2024 09:45:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FYJNevdgdMX4R7rEhQxDvKVdV5SyZSlRT4eVSU+Lgyk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.css",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22639"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jqE3jyGxWnCTc0Y7oGfHKZOpZM9udgb38MQGLaxmkNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Nov 2024 14:43:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jqE3jyGxWnCTc0Y7oGfHKZOpZM9udgb38MQGLaxmkNc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ajVMnqBMAkGl+pstlYFA4TwJBU1G7yqG5K5q51SUDJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 07:52:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ajVMnqBMAkGl+pstlYFA4TwJBU1G7yqG5K5q51SUDJU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.mgojsf1q78.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ajVMnqBMAkGl+pstlYFA4TwJBU1G7yqG5K5q51SUDJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 07:52:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mgojsf1q78"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ajVMnqBMAkGl+pstlYFA4TwJBU1G7yqG5K5q51SUDJU="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/blazor.bootstrap.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.pdf.ct0ej5e0q0.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.pdf.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oAIj2P0Z/6hTwjGA3OGvWLdxMP4KwE35+AQzWQTpxAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 07:36:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ct0ej5e0q0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oAIj2P0Z/6hTwjGA3OGvWLdxMP4KwE35+AQzWQTpxAg="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/blazor.bootstrap.pdf.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.pdf.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.pdf.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oAIj2P0Z/6hTwjGA3OGvWLdxMP4KwE35+AQzWQTpxAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 07:36:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oAIj2P0Z/6hTwjGA3OGvWLdxMP4KwE35+AQzWQTpxAg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.ezlxc6gzv3.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.sortable-list.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"du71NM6e2+m9l81ldV+Gbr74ER7Xx1GnJFg+rIY6OQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Apr 2024 19:30:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ezlxc6gzv3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-du71NM6e2+m9l81ldV+Gbr74ER7Xx1GnJFg+rIY6OQU="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.sortable-list.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"du71NM6e2+m9l81ldV+Gbr74ER7Xx1GnJFg+rIY6OQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Apr 2024 19:30:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-du71NM6e2+m9l81ldV+Gbr74ER7Xx1GnJFg+rIY6OQU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.theme-switcher.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hy2y6B5ohWPnmWg4c52+QUuZGTw8r09KtWKcaGiaa/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 15:30:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hy2y6B5ohWPnmWg4c52+QUuZGTw8r09KtWKcaGiaa/k="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.pisakkcwob.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\blazor.bootstrap.theme-switcher.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hy2y6B5ohWPnmWg4c52+QUuZGTw8r09KtWKcaGiaa/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 15:30:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pisakkcwob"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hy2y6B5ohWPnmWg4c52+QUuZGTw8r09KtWKcaGiaa/k="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/icon/128X128.png",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\icon\\128X128.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J1yB7ftYf6PWiU1781eE0JHBGfd1MV/XlLaxpVy09RU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Apr 2022 11:45:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J1yB7ftYf6PWiU1781eE0JHBGfd1MV/XlLaxpVy09RU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/icon/128X128.tngynhsog2.png",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\icon\\128X128.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J1yB7ftYf6PWiU1781eE0JHBGfd1MV/XlLaxpVy09RU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Apr 2022 11:45:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tngynhsog2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J1yB7ftYf6PWiU1781eE0JHBGfd1MV/XlLaxpVy09RU="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/icon/128X128.png"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/pdfjs-4.0.379.min.j8zp7bt7w3.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XX7we2CiSWzj3rsNtKFCod90LBYAJ3bo8rmu4EuN7SQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 07:36:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j8zp7bt7w3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XX7we2CiSWzj3rsNtKFCod90LBYAJ3bo8rmu4EuN7SQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/pdfjs-4.0.379.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/pdfjs-4.0.379.min.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XX7we2CiSWzj3rsNtKFCod90LBYAJ3bo8rmu4EuN7SQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 07:36:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XX7we2CiSWzj3rsNtKFCod90LBYAJ3bo8rmu4EuN7SQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.79hai7knhw.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.worker.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1029159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbwqIn9Fic7JuWyTXuNnAA1T0dYQ2tkTi9HhrSltUtQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 07:36:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79hai7knhw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbwqIn9Fic7JuWyTXuNnAA1T0dYQ2tkTi9HhrSltUtQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.js",
+      "AssetFile": "C:\\Users\\tgome\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\staticwebassets\\pdfjs-4.0.379.worker.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1029159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbwqIn9Fic7JuWyTXuNnAA1T0dYQ2tkTi9HhrSltUtQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Jul 2024 07:36:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbwqIn9Fic7JuWyTXuNnAA1T0dYQ2tkTi9HhrSltUtQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cmapd0fi15"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0uw8dim9nl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.eot",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4d0pazwgy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.ll5grcv8wv.ttf",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ll5grcv8wv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.otf",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjnzgf7e1h"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.svg",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wk8x8xm0ah"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.woff",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/FONT-LICENSE",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48tmkg660f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/FONT-LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/ICON-LICENSE",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dwjve0o0b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/ICON-LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/README.5bzwdl5l6x.md",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"waukoLqsiIAw/nXpsKkTHnhImmcPijcBEd2lzqzJNN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bzwdl5l6x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/README.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-waukoLqsiIAw/nXpsKkTHnhImmcPijcBEd2lzqzJNN0="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/README.md",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"waukoLqsiIAw/nXpsKkTHnhImmcPijcBEd2lzqzJNN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-waukoLqsiIAw/nXpsKkTHnhImmcPijcBEd2lzqzJNN0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HmISR7GMHKKecm3Otv4ehz7pponbngm0Dq15PWn/6ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HmISR7GMHKKecm3Otv4ehz7pponbngm0Dq15PWn/6ig="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ys9pchf5e7.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HmISR7GMHKKecm3Otv4ehz7pponbngm0Dq15PWn/6ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ys9pchf5e7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HmISR7GMHKKecm3Otv4ehz7pponbngm0Dq15PWn/6ig="
+        }
+      ]
+    },
+    {
+      "Route": "db.0qos5feifk.sqlite3",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\db.sqlite3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101683200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qos5feifk"
+        },
+        {
+          "Name": "label",
+          "Value": "db.sqlite3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI="
+        }
+      ]
+    },
+    {
+      "Route": "db.sqlite3",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\db.sqlite3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101683200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/backtound.dp19ge31xv.mp4",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\backtound.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3563956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ehNdpkwqs44H5rff8lS2mCLo6Qsoxo9fw8WYYpxICY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dp19ge31xv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/backtound.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ehNdpkwqs44H5rff8lS2mCLo6Qsoxo9fw8WYYpxICY="
+        }
+      ]
+    },
+    {
+      "Route": "images/backtound.mp4",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\backtound.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3563956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ehNdpkwqs44H5rff8lS2mCLo6Qsoxo9fw8WYYpxICY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ehNdpkwqs44H5rff8lS2mCLo6Qsoxo9fw8WYYpxICY="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo_black.jpg",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\logo_black.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QBc33MkJYZdCdssv5DaZuck9r0RUBayEBA2wjVY9gII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QBc33MkJYZdCdssv5DaZuck9r0RUBayEBA2wjVY9gII="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo_black.s9ad6fsyi6.jpg",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\logo_black.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QBc33MkJYZdCdssv5DaZuck9r0RUBayEBA2wjVY9gII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s9ad6fsyi6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo_black.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QBc33MkJYZdCdssv5DaZuck9r0RUBayEBA2wjVY9gII="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo_bnp.ayfi668lfw.png",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\logo_bnp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qn+JLhn11qgv748JeUhsIppo2Uf5X6DzsJDEVKNhbs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ayfi668lfw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo_bnp.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qn+JLhn11qgv748JeUhsIppo2Uf5X6DzsJDEVKNhbs8="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo_bnp.png",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\logo_bnp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qn+JLhn11qgv748JeUhsIppo2Uf5X6DzsJDEVKNhbs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qn+JLhn11qgv748JeUhsIppo2Uf5X6DzsJDEVKNhbs8="
+        }
+      ]
+    },
+    {
+      "Route": "images/videoplayback.kkpwgeh0vk.mp4",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\videoplayback.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dGEVLMZNErErHb/vL5Plnc3CeF387A91hPEBhl9QU0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kkpwgeh0vk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/videoplayback.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dGEVLMZNErErHb/vL5Plnc3CeF387A91hPEBhl9QU0k="
+        }
+      ]
+    },
+    {
+      "Route": "images/videoplayback.mp4",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\videoplayback.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dGEVLMZNErErHb/vL5Plnc3CeF387A91hPEBhl9QU0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dGEVLMZNErErHb/vL5Plnc3CeF387A91hPEBhl9QU0k="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTn1OtJ/Q57MkEfxkqSpwDHklhYw42tI7TEgNH6dAnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTn1OtJ/Q57MkEfxkqSpwDHklhYw42tI7TEgNH6dAnw="
+        }
+      ]
+    },
+    {
+      "Route": "index.jw8hrxuq54.html",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTn1OtJ/Q57MkEfxkqSpwDHklhYw42tI7TEgNH6dAnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jw8hrxuq54"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTn1OtJ/Q57MkEfxkqSpwDHklhYw42tI7TEgNH6dAnw="
+        }
+      ]
+    },
+    {
+      "Route": "js/interop.3f7ojmndha.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\interop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3f7ojmndha"
+        },
+        {
+          "Name": "label",
+          "Value": "js/interop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/interop.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\interop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/localStorage.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\localStorage.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZg+jqwV4TaY0D68ThxoOWeeQQArmqPFj9b9/xy8bWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZg+jqwV4TaY0D68ThxoOWeeQQArmqPFj9b9/xy8bWE="
+        }
+      ]
+    },
+    {
+      "Route": "js/localStorage.zpr158qxpx.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\localStorage.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZg+jqwV4TaY0D68ThxoOWeeQQArmqPFj9b9/xy8bWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zpr158qxpx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/localStorage.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZg+jqwV4TaY0D68ThxoOWeeQQArmqPFj9b9/xy8bWE="
+        }
+      ]
+    },
+    {
+      "Route": "js/react-app.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\react-app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCAXVWHlT64Cbj4FKrmmGeZaNyO0v4KP7AjNzWUQ70c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCAXVWHlT64Cbj4FKrmmGeZaNyO0v4KP7AjNzWUQ70c="
+        }
+      ]
+    },
+    {
+      "Route": "js/react-app.k2mfzs9av7.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\react-app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCAXVWHlT64Cbj4FKrmmGeZaNyO0v4KP7AjNzWUQ70c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k2mfzs9av7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/react-app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCAXVWHlT64Cbj4FKrmmGeZaNyO0v4KP7AjNzWUQ70c="
+        }
+      ]
+    },
+    {
+      "Route": "MagicNumber.4fbit5co75.bundle.scp.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MagicNumber.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDtfDTxrgs1cX/R9K3YCJMWSfGDHe18HWycMdHoTN24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 21:58:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4fbit5co75"
+        },
+        {
+          "Name": "label",
+          "Value": "MagicNumber.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDtfDTxrgs1cX/R9K3YCJMWSfGDHe18HWycMdHoTN24="
+        }
+      ]
+    },
+    {
+      "Route": "MagicNumber.bundle.scp.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MagicNumber.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDtfDTxrgs1cX/R9K3YCJMWSfGDHe18HWycMdHoTN24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 21:58:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDtfDTxrgs1cX/R9K3YCJMWSfGDHe18HWycMdHoTN24="
+        }
+      ]
+    },
+    {
+      "Route": "MagicNumber.pjxslbasgh.styles.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MagicNumber.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K4ZCmIp4xDTyK9LRmHOrmQQzWUkVhbYckSsIxxqPsz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 21:58:14 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazor.Bootstrap/Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjxslbasgh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4ZCmIp4xDTyK9LRmHOrmQQzWUkVhbYckSsIxxqPsz0="
+        },
+        {
+          "Name": "label",
+          "Value": "MagicNumber.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "MagicNumber.styles.css",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MagicNumber.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K4ZCmIp4xDTyK9LRmHOrmQQzWUkVhbYckSsIxxqPsz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 21:58:14 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazor.Bootstrap/Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4ZCmIp4xDTyK9LRmHOrmQQzWUkVhbYckSsIxxqPsz0="
+        }
+      ]
+    },
+    {
+      "Route": "Pages/GlobalHedging.razor.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalHedging.razor.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RzKhbwCylfxTd0Xyxt9g0Sr03SClGXJDWcfxDiDhvBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 20:49:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RzKhbwCylfxTd0Xyxt9g0Sr03SClGXJDWcfxDiDhvBE="
+        },
+        {
+          "Name": "script-type",
+          "Value": "module"
+        }
+      ]
+    },
+    {
+      "Route": "Pages/GlobalSchedule.razor.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalSchedule.razor.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mR4/fTQHvDfmHdSw4IhJYBqVZglnm1TAlDilNoldVMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 15:20:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mR4/fTQHvDfmHdSw4IhJYBqVZglnm1TAlDilNoldVMQ="
+        },
+        {
+          "Name": "script-type",
+          "Value": "module"
+        }
+      ]
+    },
+    {
+      "Route": "Pages/GlobalTrades.razor.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalTrades.razor.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vZDZvFiSonE3DdWhzG4JDNiP7oN3UH2IyCR/4mszts8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 16:34:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vZDZvFiSonE3DdWhzG4JDNiP7oN3UH2IyCR/4mszts8="
+        },
+        {
+          "Name": "script-type",
+          "Value": "module"
+        }
+      ]
     }
   ]
 }

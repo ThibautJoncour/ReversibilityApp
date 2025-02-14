@@ -1,100 +1,112 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\Pages\\GlobalTrades.razor.js",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalHedging.razor.js",
+      "PackagePath": "staticwebassets\\Pages\\GlobalHedging.razor.js"
+    },
+    {
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalSchedule.razor.js",
+      "PackagePath": "staticwebassets\\Pages\\GlobalSchedule.razor.js"
+    },
+    {
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalTrades.razor.js",
       "PackagePath": "staticwebassets\\Pages\\GlobalTrades.razor.js"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MagicNumber.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MagicNumber.bundle.scp.css"
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MagicNumber.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MagicNumber.4fbit5co75.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\db.sqlite3",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\db.sqlite3",
       "PackagePath": "staticwebassets\\db.sqlite3"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\images\\backtound.mp4",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\backtound.mp4",
       "PackagePath": "staticwebassets\\images\\backtound.mp4"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\images\\logo_black.jpg",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\logo_black.jpg",
       "PackagePath": "staticwebassets\\images\\logo_black.jpg"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\images\\logo_bnp.png",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\logo_bnp.png",
       "PackagePath": "staticwebassets\\images\\logo_bnp.png"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\images\\videoplayback.mp4",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\images\\videoplayback.mp4",
       "PackagePath": "staticwebassets\\images\\videoplayback.mp4"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\index.html",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\js\\interop.js",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\interop.js",
       "PackagePath": "staticwebassets\\js\\interop.js"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\js\\localStorage.js",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\localStorage.js",
       "PackagePath": "staticwebassets\\js\\localStorage.js"
     },
     {
-      "Id": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\wwwroot\\js\\react-app.js",
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\react-app.js",
       "PackagePath": "staticwebassets\\js\\react-app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MagicNumber.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MagicNumber.Microsoft.AspNetCore.StaticWebAssets.props",

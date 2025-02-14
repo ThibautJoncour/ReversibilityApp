@@ -11,11 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagicNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8c356bf5e3c2c545a3ba1fb19aa2d9aa4854146")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5e44a0577ec09faa7cbbddb1fdeee8c3561af05")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagicNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagicNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

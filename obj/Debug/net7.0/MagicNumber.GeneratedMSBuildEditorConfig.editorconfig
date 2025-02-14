@@ -9,103 +9,117 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MagicNumber
 build_property.RootNamespace = MagicNumber
-build_property.ProjectDir = C:\Users\Thibaut Joncour\source\repos\BNP_App\
+build_property.ProjectDir = C:\Users\tgome\OneDrive\Documents\GitHub\ReversibilityApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Thibaut Joncour\source\repos\BNP_App
+build_property.MSBuildProjectDirectory = C:\Users\tgome\OneDrive\Documents\GitHub\ReversibilityApp
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/App.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/Bond_pricing.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/Bond_pricing.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9uZF9wcmljaW5nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/DataMarketCcy.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/DataMarket.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YU1hcmtldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/DataMarketCcy.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YU1hcmtldENjeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/DataMarketCurve.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/DataMarketCurve.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YU1hcmtldEN1cnZlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/DataMarketRates.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/DataMarketRates.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YU1hcmtldFJhdGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/FiltrerData.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/FiltrerData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlsdHJlckRhdGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/Floor.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/Floor.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxvb3IucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/Index.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/LoanSchedule.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/LoanSchedule.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9hblNjaGVkdWxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/Login.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/Profil.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/Profil.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/Securities.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/Securities.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjdXJpdGllcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/SingleTrade.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/SingleTrade.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2luZ2xlVHJhZGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Shared/LoginLayout.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Shared/LoginLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Shared/ProtectedLayout.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Shared/ProtectedLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb3RlY3RlZExheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Shared/SurveyPrompt.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/_Imports.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/GlobalTrades.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/GlobalHedging.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2xvYmFsSGVkZ2luZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-vr0zl7z97c
+
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/GlobalSchedule.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2xvYmFsU2NoZWR1bGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lqj92j8yek
+
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/GlobalTrades.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2xvYmFsVHJhZGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-issm9t6tph
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Shared/MainLayout.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-17uip4fp81
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Shared/NavMenu.razor]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-solvn16nii
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/Error.cshtml]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/test.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Thibaut Joncour/source/repos/BNP_App/Pages/_Host.cshtml]
+[C:/Users/tgome/OneDrive/Documents/GitHub/ReversibilityApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

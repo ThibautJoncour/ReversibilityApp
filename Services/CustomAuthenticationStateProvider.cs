@@ -14,7 +14,10 @@ public class CustomAuthenticationStateProvider : AuthenticationStateProvider
     private readonly Dictionary<string, string> _users = new()
     {
         { "TJONCOUR", "Joncour" },
-        { "JREADY", "ready" }
+        { "JREADY", "ready" },
+        { "TGOMEZ", "TGV" },
+        { "CHATGPT", "Merci" },
+        { "RafaNadal", "GOAT" }
     };
 
 

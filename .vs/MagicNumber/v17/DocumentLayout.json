@@ -1,13 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\",
+  "WorkspaceRootPath": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|c:\\users\\thibaut joncour\\source\\repos\\bnp_app\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|c:\\users\\tgome\\onedrive\\documents\\github\\reversibilityapp\\services\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|solutionrelative:services\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|c:\\users\\tgome\\onedrive\\documents\\github\\reversibilityapp\\pages\\globalschedule.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|solutionrelative:pages\\globalschedule.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|c:\\users\\tgome\\onedrive\\documents\\github\\reversibilityapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|c:\\users\\tgome\\onedrive\\documents\\github\\reversibilityapp\\pages\\datamarketrates.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|solutionrelative:pages\\datamarketrates.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgome\\AppData\\Local\\Temp\\.vsdbgsrc\\21263e99c3f4a710af5709b1459d0f7521e7cebea096b8cf7cd148c764967f28\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|c:\\users\\tgome\\onedrive\\documents\\github\\reversibilityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|c:\\users\\tgome\\onedrive\\documents\\github\\reversibilityapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|c:\\users\\thibaut joncour\\source\\repos\\bnp_app\\pages\\datamarket.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|c:\\users\\tgome\\onedrive\\documents\\github\\reversibilityapp\\pages\\datamarket.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1DD0DF88-1984-4178-AAD3-1C4599BD76DD}|MagicNumber.csproj|solutionrelative:pages\\datamarket.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -18,8 +41,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 261,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T09:09:46.176Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -49,30 +85,96 @@
               "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\Shared\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\Shared\\NavMenu.razor",
-              "RelativeToolTip": "Shared\\NavMenu.razor",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowCQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T16:37:22.199Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GlobalSchedule.razor",
+              "DocumentMoniker": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalSchedule.razor",
+              "RelativeDocumentMoniker": "Pages\\GlobalSchedule.razor",
+              "ToolTip": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\GlobalSchedule.razor",
+              "RelativeToolTip": "Pages\\GlobalSchedule.razor",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAADkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T22:05:14.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Services\\CustomAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "Services\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Services\\CustomAuthenticationStateProvider.cs",
+              "RelativeToolTip": "Services\\CustomAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:49:35.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataMarketRates.razor.cs",
+              "DocumentMoniker": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\DataMarketRates.razor.cs",
+              "RelativeDocumentMoniker": "Pages\\DataMarketRates.razor.cs",
+              "ToolTip": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\DataMarketRates.razor.cs",
+              "RelativeToolTip": "Pages\\DataMarketRates.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:39:43.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgome\\AppData\\Local\\Temp\\.vsdbgsrc\\21263e99c3f4a710af5709b1459d0f7521e7cebea096b8cf7cd148c764967f28\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\21263e99c3f4a710af5709b1459d0f7521e7cebea096b8cf7cd148c764967f28\\Program.cs",
+              "ToolTip": "C:\\Users\\tgome\\AppData\\Local\\Temp\\.vsdbgsrc\\21263e99c3f4a710af5709b1459d0f7521e7cebea096b8cf7cd148c764967f28\\Program.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\21263e99c3f4a710af5709b1459d0f7521e7cebea096b8cf7cd148c764967f28\\Program.cs [Lecture seule]",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:39:09.111Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:38:12.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T16:37:22.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DataMarket.razor",
-              "DocumentMoniker": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\Pages\\DataMarket.razor",
+              "DocumentMoniker": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\DataMarket.razor",
               "RelativeDocumentMoniker": "Pages\\DataMarket.razor",
-              "ToolTip": "C:\\Users\\Thibaut Joncour\\source\\repos\\BNP_App\\Pages\\DataMarket.razor",
+              "ToolTip": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\Pages\\DataMarket.razor",
               "RelativeToolTip": "Pages\\DataMarket.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T16:36:33.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T16:36:33.827Z"
             }
           ]
         }
