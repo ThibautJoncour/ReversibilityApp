@@ -144,7 +144,7 @@
     private bool IsRateModalOpen = false;
     private string SearchTermRate = "";
     private List<Dictionary<string, object>> request_all = new();
-    private DateTime SearchStartDate = DateTime.Now;
+    private DateTime SearchStartDate = DateTime.Today.AddYears(-2);
 
 
     private static readonly List<string> RateTypes = new()
@@ -191,12 +191,12 @@
             return;
         }
 
-        string query_all = $"SELECT * FROM curve WHERE [Curve] IN ({string.Join(",", SelectedCurrencies.Select((c, i) => $"@Code{i}"))}) AND [Date] = '2020-01-01' ORDER BY [Point]";
+        string query_all = $"SELECT * FROM curve WHERE [Curve] IN ({string.Join(",", SelectedCurrencies.Select((c, i) => $"@Code{i}"))}) AND [Date] = @StartDate ORDER BY [Point]";
         Console.WriteLine(query_all); // Vérifie la requête générée
 
         var parameters = new Dictionary<string, object>
         {
-            { "@StartDate", SearchStartDate },
+            { "@StartDate", SearchStartDate.ToString("yyyy-MM-dd") },
         };
 
         for (int i = 0; i < SelectedCurrencies.Count; i++)
