@@ -354,3 +354,11 @@ function GenerateLineRate(data, labels) {
         }
     });
 }
+
+
+
+function showFluxModal() {
+    var modal = new bootstrap.Modal(document.getElementById('fluxModal'));
+    modal.show();
+}
+
