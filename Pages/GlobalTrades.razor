@@ -6,6 +6,7 @@
 <PageTitle>Global Trades</PageTitle>
 
 <div class="container-fluid mt-3">
+    <!-- Top-of-page filters (existing code; do not modify) -->
     <div>
         <div class="row mb-3">
             <div class="col-md-6">
@@ -44,43 +45,57 @@
         </div>
     </div>
 
+    <!-- Global Trades Table -->
     <div class="w-100 global-trades-table-container">
         <table id="global-trades-table">
             <thead>
-            <tr>
-                <th>Entity</th>
-                <th>Portfolio</th>
-                <th>Instrument</th>
-                <th>Status</th>
-                <th>User</th>
-                <th>ARPSONRef</th>
-                <th>OPERARef</th>
-                <th>InputDate</th>
-                <th>TimeInput</th>
-                <th>ProductType</th>
-                <th>Trader</th>
-                <th>INTERNALRef</th>
-                <th>Counterparty</th>
-                <th>TradeDate</th>
-                <th>ValueDate</th>
-                <th>MaturityDate</th>
-                <th>Direction</th>
-                <th>Notional</th>
-                <th>Ccy</th>
-                <th>RateType</th>
-                <th>RateOrSpread</th>
-                <th>Frequency</th>
-                <th>Basis</th>
-                <th>Interests</th>
-                <th>TIE</th>
-                <th>ISIN</th>
-                <th>Quantity</th>
-                <th>Price</th>
-                <th>Bundle</th>
-            </tr>
+                <!-- Filter Row: This row will display filter controls above the column headers.
+                     Currently, only the 'Entity' filter is operational.
+                     The dropdown will be populated dynamically (via your SQL query and jQuery code). -->
+                <tr id="filter-row">
+                    <th>
+                        <label for="entity" class="form-label">Entity Filter</label>
+                        <select id="entity" class="form-control">
+                            <option value="">All</option>
+                            <!-- Additional options will be appended dynamically via jQuery -->
+                        </select>
+                    </th>
+                </tr>
+                <!-- Header Row: Displays the column headers -->
+                <tr>
+                    <th>Entity</th>
+                    <th>Portfolio</th>
+                    <th>Instrument</th>
+                    <th>Status</th>
+                    <th>User</th>
+                    <th>ARPSONRef</th>
+                    <th>OPERARef</th>
+                    <th>InputDate</th>
+                    <th>TimeInput</th>
+                    <th>ProductType</th>
+                    <th>Trader</th>
+                    <th>INTERNALRef</th>
+                    <th>Counterparty</th>
+                    <th>TradeDate</th>
+                    <th>ValueDate</th>
+                    <th>MaturityDate</th>
+                    <th>Direction</th>
+                    <th>Notional</th>
+                    <th>Ccy</th>
+                    <th>RateType</th>
+                    <th>RateOrSpread</th>
+                    <th>Frequency</th>
+                    <th>Basis</th>
+                    <th>Interests</th>
+                    <th>TIE</th>
+                    <th>ISIN</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Bundle</th>
+                </tr>
             </thead>
             <tbody>
-            @*Content of the table*@
+                @*Content of the table will be loaded dynamically*@
             </tbody>
         </table>
     </div>
@@ -90,7 +105,36 @@
     private const string GetPortfoliosQuery = "SELECT DISTINCT Portfolio FROM trades";
     private const string GetInstrumentsQuery = "SELECT DISTINCT Instrument FROM trades";
     private const string GetProductTypesQuery = "SELECT DISTINCT ProductType FROM trades";
-    private const string GetGlobalTradesQuery = "SELECT Entity, Portfolio, Instrument, Status, User, ARPSONRef, OPERARef, InputDate, TimeInput, ProductType, Trader, INTERNALRef, Counterparty, TradeDate, ValueDate, MaturityDate, Direction, Notional, Ccy, RateType, RateOrSpread, Frequency, Basis, Interests, TIE, ISIN, Quantity, Price, Bundle from trades";
+    private const string GetEntityQuery = "SELECT DISTINCT Entity FROM trades";
+    /*
+    private const string GetStatusQuery = "SELECT DISTINCT Status FROM trades";
+    private const string GetUserQuery = "SELECT DISTINCT User FROM trades";
+     Test with 3 columns to include as header filters
+    private const string GetARPSONRefQuery = "SELECT DISTINCT ARPSONRef FROM trades";
+    private const string GetOPERARefQuery = "SELECT DISTINCT OPERARef FROM trades";
+    private const string GetInputDateQuery = "SELECT DISTINCT InputDate FROM trades";
+    private const string GetTimeInputQuery = "SELECT DISTINCT TimeInput FROM trades";
+    private const string GetTraderQuery = "SELECT DISTINCT Trader FROM trades";
+    private const string GetINTERNALRefQuery = "SELECT DISTINCT INTERNALRef FROM trades";
+    private const string GetCounterpartyQuery = "SELECT DISTINCT Counterparty FROM trades";
+    private const string GetTradeDateQuery = "SELECT DISTINCT TradeDate FROM trades";
+    private const string GetValueDateQuery = "SELECT DISTINCT ValueDate FROM trades";
+    private const string GetMaturityDateQuery = "SELECT DISTINCT MaturityDate FROM trades";
+    private const string GetDirectionQuery = "SELECT DISTINCT Direction FROM trades";
+    private const string GetNotionalQuery = "SELECT DISTINCT Notional FROM trades";
+    private const string GetCcyQuery = "SELECT DISTINCT Ccy FROM trades";
+    private const string GetRateTypeQuery = "SELECT DISTINCT RateType FROM trades";
+    private const string GetRateOrSpreadQuery = "SELECT DISTINCT RateOrSpread FROM trades";
+    private const string GetFrequencyQuery = "SELECT DISTINCT Frequency FROM trades";
+    private const string GetBasisQuery = "SELECT DISTINCT Basis FROM trades";
+    private const string GetInterestsQuery = "SELECT DISTINCT Interests FROM trades";
+    private const string GetTIEQuery = "SELECT DISTINCT TIE FROM trades";
+    private const string GetISINQuery = "SELECT DISTINCT ISIN FROM trades";
+    private const string GetQuantityQuery = "SELECT DISTINCT Quantity FROM trades";
+    private const string GetPriceQuery = "SELECT DISTINCT Price FROM trades";
+    private const string GetBundleQuery = "SELECT DISTINCT Bundle FROM trades";
+	*/
+	private const string GetGlobalTradesQuery = "SELECT Entity, Portfolio, Instrument, Status, User, ARPSONRef, OPERARef, InputDate, TimeInput, ProductType, Trader, INTERNALRef, Counterparty, TradeDate, ValueDate, MaturityDate, Direction, Notional, Ccy, RateType, RateOrSpread, Frequency, Basis, Interests, TIE, ISIN, Quantity, Price, Bundle from trades";
 
     // Self-reference to the component
     private DotNetObjectReference<GlobalTrades>? _reference;
@@ -153,25 +197,29 @@
         var portfolios = DatabaseService.GetData(GetPortfoliosQuery);
         var instruments = DatabaseService.GetData(GetInstrumentsQuery);
         var productTypes = DatabaseService.GetData(GetProductTypesQuery);
+        var entity = DatabaseService.GetData(GetEntityQuery);
 
         var portfoliosArray = GetStringArray(portfolios, "Portfolio");
         var instrumentsArray = GetStringArray(instruments, "Instrument");
         var productArray = GetStringArray(productTypes, "ProductType");
+        var entityArray = GetStringArray(entity, "Entity");
 
         // At this point, we have module property defined
         await _module!.InvokeVoidAsync("initMultiSelect", new object?[]
         {
             StringsToOptions(portfoliosArray),
             StringsToOptions(instrumentsArray),
-            StringsToOptions(productArray)
+            StringsToOptions(productArray),
+            StringsToOptions(entityArray)
         });
     }
 
     [JSInvokable]
     public Task<List<string?[]>> LoadGlobalTrades(
-        string[] instrumentsFilter,
+        string[] instrumentsFilters,
         string[] portfolioFilters,
         string[] productTypeFilters,
+        string[] entityFilters,
         string? tradeDateStart,
         string? tradeDateEnd,
         string? maturityDateStart,
@@ -181,9 +229,14 @@
         var finalQuery = new string(GetGlobalTradesQuery);
         var whereConditions = new List<string>();
 
-        if (instrumentsFilter.Any())
+        if (instrumentsFilters.Any())
         {
-            whereConditions.Add($"Instrument IN ({string.Join(",", instrumentsFilter)})");
+            whereConditions.Add($"Instrument IN ({string.Join(",", instrumentsFilters)})");
+        }
+
+        if (entityFilters.Any())
+        {
+            whereConditions.Add($"Entity IN ({string.Join(",", entityFilters)})");
         }
 
         if (portfolioFilters.Any())

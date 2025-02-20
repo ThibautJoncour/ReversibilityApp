@@ -21,5 +21,6 @@ wwwroot\images\logo_bnp.png
 wwwroot\images\videoplayback.mp4
 wwwroot\index.html
 wwwroot\js\interop.js
+wwwroot\js\jszip.min.js
 wwwroot\js\localStorage.js
 wwwroot\js\react-app.js

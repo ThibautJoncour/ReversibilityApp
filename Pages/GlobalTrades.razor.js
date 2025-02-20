@@ -2,22 +2,27 @@
 let instrumentsFilter = [];
 let portfolioFilter = [];
 let productTypeFilter = [];
+let entityFilter = [];
+
 
 /**
  * Function called in the GlobalTrades.razor file to initialize the MultiSelect.
  * @param {{ value: string; text: String }[]} instrumentOptions Options for the instrument select.
  * @param {{ value: string; text: String }[]} portfolioOptions Options for the portfolio
- * @param {{ value: string; text: String }[]} productTypeOptions Options for the options
+ * @param {{ value: string; text: String }[]} productTypeOptions Options for the option
+ * @param {{ value: string; text: String }[]} entityOptions Options for the options
  */
-export function initMultiSelect(portfolioOptions, instrumentOptions, productTypeOptions) {
+export function initMultiSelect(portfolioOptions, instrumentOptions, productTypeOptions, entityOptions) {
     const instrumentElement = $("#instrument");
     const portfolioElement = $("#portfolio");
     const productTypeElement = $("#product-type");
+    const entityElement = $("#entity");
 
     // Remove the form-control class to avoid styling issues.
     instrumentElement.removeClass("form-control");
     portfolioElement.removeClass("form-control");
     productTypeElement.removeClass("form-control");
+    entityElement.removeClass("form-control");
 
     const strToArray = str => str.split(",").filter(Boolean);
 
@@ -37,6 +42,14 @@ export function initMultiSelect(portfolioOptions, instrumentOptions, productType
             options: portfolioOptions,
             onChange: (options) => {
                 portfolioFilter = strToArray(options);
+            }
+        });
+
+        entityElement.selectize({
+            persist: false,
+            options: entityOptions,
+            onChange: (options) => {
+                entityFilter = strToArray(options);
             }
         });
 
@@ -94,6 +107,8 @@ export const handleFetchClick = (instanceReference) => {
 /**
  * Function called in the GlobalTrades.razor file to initialize the DataTable.
  */
+
+// function to export the filtered data to excel
 export function init() {
     /**
      * This function ensures that all the scripts and the DOM are fully loaded before executing the code inside it.

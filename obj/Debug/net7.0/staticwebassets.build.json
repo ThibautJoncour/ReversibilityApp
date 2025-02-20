@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3L6RWj3bLZyEKiAAxAkK+bo6UtTZIzSejV7/1yT7j+0=",
+  "Hash": "SzEl5UpUZ6dRFNLjRN2XhgxGXnTAaRANxM/fEebjVD8=",
   "Source": "MagicNumber",
   "BasePath": "_content/MagicNumber",
   "Mode": "Default",
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bbn55q649f",
-      "Integrity": "RzKhbwCylfxTd0Xyxt9g0Sr03SClGXJDWcfxDiDhvBE=",
+      "Fingerprint": "3d647ipnjm",
+      "Integrity": "NzjRmDZ+UqJ/ZqLUUajz09Tl6Ju30xJAkVaKjcQhlCs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Pages\\GlobalHedging.razor.js"
@@ -325,8 +325,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "las6wfcdj0",
-      "Integrity": "vZDZvFiSonE3DdWhzG4JDNiP7oN3UH2IyCR/4mszts8=",
+      "Fingerprint": "alqasfyayz",
+      "Integrity": "Hn2BwyE/ic94rZy8mgqK33JKcvT9WWcXyYxt3hs7u1Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Pages\\GlobalTrades.razor.js"
@@ -598,8 +598,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0qos5feifk",
-      "Integrity": "2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI=",
+      "Fingerprint": "xu4isr04mh",
+      "Integrity": "5y7zZxVSRoGWIEZYpj9xhp/xdZqwi3oL3tQFgqdhbzs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\db.sqlite3"
@@ -745,11 +745,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3f7ojmndha",
-      "Integrity": "j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ=",
+      "Fingerprint": "ctrgs2hpie",
+      "Integrity": "MNsC0112A9OwvhMaQ2Jxb9Q4yWms5VoBdBt965X6i3Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\interop.js"
+    },
+    {
+      "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\jszip.min.js",
+      "SourceId": "MagicNumber",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\",
+      "BasePath": "_content/MagicNumber",
+      "RelativePath": "js/jszip.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vs4bnby5cr",
+      "Integrity": "8S82d5jjXuLZmT26YWf8Yd21L7iYgPWpn7tgYzUYhBA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jszip.min.js"
     },
     {
       "Identity": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\localStorage.js",
@@ -2600,51 +2621,6 @@
       ]
     },
     {
-      "Route": "db.0qos5feifk.sqlite3",
-      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\db.sqlite3",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "101683200"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 22:04:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0qos5feifk"
-        },
-        {
-          "Name": "label",
-          "Value": "db.sqlite3"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI="
-        }
-      ]
-    },
-    {
       "Route": "db.sqlite3",
       "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\db.sqlite3",
       "Selectors": [],
@@ -2655,7 +2631,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "101683200"
+          "Value": "126693376"
         },
         {
           "Name": "Content-Type",
@@ -2663,11 +2639,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI=\""
+          "Value": "\"5y7zZxVSRoGWIEZYpj9xhp/xdZqwi3oL3tQFgqdhbzs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 22:04:16 GMT"
+          "Value": "Fri, 14 Feb 2025 11:41:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2677,7 +2653,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2HLZSKNVJGHPeP1uqLP6i1E4zmuQWl+QNKMP0qtRduI="
+          "Value": "sha256-5y7zZxVSRoGWIEZYpj9xhp/xdZqwi3oL3tQFgqdhbzs="
+        }
+      ]
+    },
+    {
+      "Route": "db.xu4isr04mh.sqlite3",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\db.sqlite3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126693376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5y7zZxVSRoGWIEZYpj9xhp/xdZqwi3oL3tQFgqdhbzs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 11:41:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xu4isr04mh"
+        },
+        {
+          "Name": "label",
+          "Value": "db.sqlite3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5y7zZxVSRoGWIEZYpj9xhp/xdZqwi3oL3tQFgqdhbzs="
         }
       ]
     },
@@ -3174,7 +3195,7 @@
       ]
     },
     {
-      "Route": "js/interop.3f7ojmndha.js",
+      "Route": "js/interop.ctrgs2hpie.js",
       "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\interop.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3184,7 +3205,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9897"
+          "Value": "11023"
         },
         {
           "Name": "Content-Type",
@@ -3192,11 +3213,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ=\""
+          "Value": "\"MNsC0112A9OwvhMaQ2Jxb9Q4yWms5VoBdBt965X6i3Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+          "Value": "Fri, 14 Feb 2025 14:57:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3206,7 +3227,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3f7ojmndha"
+          "Value": "ctrgs2hpie"
         },
         {
           "Name": "label",
@@ -3214,7 +3235,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ="
+          "Value": "sha256-MNsC0112A9OwvhMaQ2Jxb9Q4yWms5VoBdBt965X6i3Y="
         }
       ]
     },
@@ -3229,7 +3250,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9897"
+          "Value": "11023"
         },
         {
           "Name": "Content-Type",
@@ -3237,11 +3258,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ=\""
+          "Value": "\"MNsC0112A9OwvhMaQ2Jxb9Q4yWms5VoBdBt965X6i3Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 16:34:23 GMT"
+          "Value": "Fri, 14 Feb 2025 14:57:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3251,7 +3272,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j/aOl8WQTwofBYm8AAnBkzftFYNMQuiJIH2Cga83+gQ="
+          "Value": "sha256-MNsC0112A9OwvhMaQ2Jxb9Q4yWms5VoBdBt965X6i3Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/jszip.min.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\jszip.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8S82d5jjXuLZmT26YWf8Yd21L7iYgPWpn7tgYzUYhBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 14:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8S82d5jjXuLZmT26YWf8Yd21L7iYgPWpn7tgYzUYhBA="
+        }
+      ]
+    },
+    {
+      "Route": "js/jszip.min.vs4bnby5cr.js",
+      "AssetFile": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\jszip.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8S82d5jjXuLZmT26YWf8Yd21L7iYgPWpn7tgYzUYhBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 14:01:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs4bnby5cr"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jszip.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8S82d5jjXuLZmT26YWf8Yd21L7iYgPWpn7tgYzUYhBA="
         }
       ]
     },
@@ -3442,7 +3545,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 21:58:14 GMT"
+          "Value": "Fri, 14 Feb 2025 15:07:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3487,7 +3590,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 21:58:14 GMT"
+          "Value": "Fri, 14 Feb 2025 15:07:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3528,7 +3631,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 21:58:14 GMT"
+          "Value": "Fri, 14 Feb 2025 15:07:38 GMT"
         },
         {
           "Name": "Link",
@@ -3577,7 +3680,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 21:58:14 GMT"
+          "Value": "Fri, 14 Feb 2025 15:07:38 GMT"
         },
         {
           "Name": "Link",
@@ -3606,7 +3709,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3918"
+          "Value": "3922"
         },
         {
           "Name": "Content-Type",
@@ -3614,17 +3717,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RzKhbwCylfxTd0Xyxt9g0Sr03SClGXJDWcfxDiDhvBE=\""
+          "Value": "\"NzjRmDZ+UqJ/ZqLUUajz09Tl6Ju30xJAkVaKjcQhlCs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 20:49:57 GMT"
+          "Value": "Fri, 14 Feb 2025 14:57:09 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RzKhbwCylfxTd0Xyxt9g0Sr03SClGXJDWcfxDiDhvBE="
+          "Value": "sha256-NzjRmDZ+UqJ/ZqLUUajz09Tl6Ju30xJAkVaKjcQhlCs="
         },
         {
           "Name": "script-type",
@@ -3688,7 +3791,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4094"
+          "Value": "4582"
         },
         {
           "Name": "Content-Type",
@@ -3696,17 +3799,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vZDZvFiSonE3DdWhzG4JDNiP7oN3UH2IyCR/4mszts8=\""
+          "Value": "\"Hn2BwyE/ic94rZy8mgqK33JKcvT9WWcXyYxt3hs7u1Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 16:34:22 GMT"
+          "Value": "Mon, 17 Feb 2025 17:15:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vZDZvFiSonE3DdWhzG4JDNiP7oN3UH2IyCR/4mszts8="
+          "Value": "sha256-Hn2BwyE/ic94rZy8mgqK33JKcvT9WWcXyYxt3hs7u1Y="
         },
         {
           "Name": "script-type",

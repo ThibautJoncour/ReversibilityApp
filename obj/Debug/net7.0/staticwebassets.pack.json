@@ -97,6 +97,10 @@
       "PackagePath": "staticwebassets\\js\\interop.js"
     },
     {
+      "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\js\\jszip.min.js"
+    },
+    {
       "Id": "C:\\Users\\tgome\\OneDrive\\Documents\\GitHub\\ReversibilityApp\\wwwroot\\js\\localStorage.js",
       "PackagePath": "staticwebassets\\js\\localStorage.js"
     },
